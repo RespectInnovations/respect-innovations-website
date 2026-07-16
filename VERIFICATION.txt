@@ -1,0 +1,14 @@
+VALIDATION PASSED
+
+Form actions found:
+- index.html: https://api.web3forms.com/submit
+- contact.html: https://api.web3forms.com/submit
+
+Forbidden strings checked and not found:
+- formsubmit
+- respectmanufacturing.com
+- Dan@
+- Dfebles@respectmanufacturing.com
+
+Web3Forms access key present: 8d7be845-6de6-4af0-bd20-fc366af7b745
+Build marker: Respect Innovations Web3Forms Build: 2026-07-16-v2

@@ -1,9 +1,34 @@
-Upload all files and the complete assets folder to your GitHub repository.
+RESPECT INNOVATIONS — WEB3FORMS CORRECTED BUILD
 
-Web3Forms autoresponder:
-Web3Forms currently documents automatic customer confirmation as a Pro feature. In Web3Forms, open Form Settings, enable Autoresponder, and use:
-Company: Respect Innovations LLC
-Subject: We received your Respect Innovations project inquiry
-Intro: Thank you for contacting Respect Innovations LLC. We received your inquiry and will follow up within one business day.
+This is a full replacement package.
 
-The form's email field is named email, which Web3Forms requires for autoresponder delivery.
+UPLOAD / REPLACE THESE ITEMS IN GITHUB:
+- index.html
+- contact.html
+- thank-you.html
+- styles.css
+- script.js
+- CNAME
+- assets/ (entire folder)
+
+BOTH FORMS USE WEB3FORMS:
+Endpoint:
+https://api.web3forms.com/submit
+
+Access key:
+8d7be845-6de6-4af0-bd20-fc366af7b745
+
+The access key routes submissions to the email address registered in Web3Forms:
+Dfebles@RespectInnovations.com
+
+Public contact information:
+Phone: 720-360-1070
+Email: Info@RespectInnovations.com
+
+IMPORTANT DEPLOYMENT STEP:
+Delete or overwrite the old index.html in GitHub. Uploading only contact.html will leave
+the old homepage form live. After GitHub deploys, open the live site, press Ctrl+U, and
+search for:
+Respect Innovations Web3Forms Build: 2026-07-16-v2
+
+If that marker is visible, the corrected build is live.
